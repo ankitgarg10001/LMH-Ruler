@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/clear"
+        android:icon="@drawable/new_icon"
+        android:title="New" />
+    <item
+        android:id="@+id/exportData"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="Export" />
+    <item
+        android:id="@+id/importData"
+        android:icon="@android:drawable/ic_menu_upload"
+        android:title="Import" />
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/about"
+        android:title="About" />
+</menu>
