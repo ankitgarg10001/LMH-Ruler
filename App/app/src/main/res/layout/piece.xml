@@ -73,7 +73,7 @@
         <ImageButton
             android:id="@+id/tvDecrease"
             android:layout_width="0dp"
-            android:layout_height="17dp"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="20"
             android:adjustViewBounds="true"
@@ -95,7 +95,7 @@
         <ImageButton
             android:id="@+id/tvIncrease"
             android:layout_width="0dp"
-            android:layout_height="17dp"
+            android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_weight="20"
             android:adjustViewBounds="true"
